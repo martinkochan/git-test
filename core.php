@@ -5,7 +5,7 @@ class core
 	public function change()
 	{
 		$a = 2;
-		$b = 3;
+		$b = 6;
 
 		$c = $a + $b;
 
