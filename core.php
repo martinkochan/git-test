@@ -11,6 +11,8 @@ class core
 
 		$d = 5;
 
+		$c = $d + $a;
+
 		return $c;
 	}
 }
