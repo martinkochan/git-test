@@ -4,12 +4,12 @@ class core
 {
 	public function change()
 	{
-		$a = 2;
-		$b = 6;
+		$a = 1;
+		$b = 10;
 
 		$c = $a + $b;
 
-		$d = 5;
+		$d = 3;
 
 		$c = $d + $a;
 
